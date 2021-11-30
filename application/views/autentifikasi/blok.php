@@ -80,4 +80,4 @@
                                        <!-- Custom scripts for all pages-->
                                         <script src="<?= base_url('assets/');?>js/sb-admin2.min.js"></script>
                                       </body>
-</html>
+</html> 
