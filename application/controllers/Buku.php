@@ -244,5 +244,5 @@ class Buku extends CI_Controller
         $this->ModelBuku->hapusKategori($where);
         redirect('buku/kategori');
     }
-}
+} 
 
