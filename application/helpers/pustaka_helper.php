@@ -9,3 +9,4 @@ function cek_login()
           $role_id = $ci->session->userdata('role_id');
          }
        }
+ 
