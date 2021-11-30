@@ -1,5 +1,5 @@
 <?php
-
+ 
 class Autentifikasi extends CI_Controller
 {
 
