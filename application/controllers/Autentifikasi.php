@@ -131,5 +131,5 @@ class Autentifikasi extends CI_Controller
     {
       $this->load->view('autentifikasi/gagal');
     }
-
+ 
   }
